@@ -6,6 +6,8 @@
 
 [Mermaid](https://mermaid.js.org/#/)
 
+[PlantUML](https://plantuml.com/)
+
 ### Form Builder
 
 [Formulate](https://formulate.dev/)
